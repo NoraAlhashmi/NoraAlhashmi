@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoraAlhashmi
-- 👀 I’m interested in Web Services Develpment
-- 🌱 I’m currently learning Spring Boot 
+- 👀 Interested in Web Services Develpment
+- 🌱 Currently working learning Spring Boot 
 - 💞️ I’m looking to collaborate on real project
 - 📫 How to reach me at alhashminora@gmail.com
 
